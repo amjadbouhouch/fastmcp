@@ -37,9 +37,9 @@
     "zod-to-json-schema": "^3.24.5"
   },
   "repository": {
-    "url": "https://github.com/punkpeye/fastmcp"
+    "url": "https://github.com/amjadbouhouch/fastmcp"
   },
-  "homepage": "https://glama.ai/mcp",
+  "homepage": "https://github.com/amjadbouhouch/fastmcp",
   "release": {
     "branches": [
       "main"
